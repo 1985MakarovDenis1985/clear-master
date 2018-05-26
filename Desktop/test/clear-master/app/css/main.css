@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'TruenoLt';
+  src: url("../fonts/trueno/TruenoLt.otf");
+}
+
+p {
+  color: red;
+  font-size: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
